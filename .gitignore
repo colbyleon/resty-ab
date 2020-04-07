@@ -1,0 +1,5 @@
+*_temp/
+.vscode/
+logs/*
+!logs/placeholder
+luacov*
