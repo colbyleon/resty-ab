@@ -17,7 +17,6 @@ _M.redis = {
 _M.dlog = {
     url = 'http://10.72.12.222:8100/log',
     -- url = 'http://10.72.12.222:9901',
-    -- url = 'http://dlog.uu.cc',
     topic = 'resty_ab'
 }
 
